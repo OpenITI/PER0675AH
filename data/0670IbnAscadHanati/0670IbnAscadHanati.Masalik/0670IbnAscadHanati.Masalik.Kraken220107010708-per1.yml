@@ -1,10 +1,10 @@
-00#VERS#CLENGTH##: 481168
-00#VERS#LENGTH###: 130607
+00#VERS#CLENGTH##: 510583
+00#VERS#LENGTH###: 134498
 00#VERS#URI######: 0670IbnAscadHanati.Masalik.Kraken220107010708-per1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1298744579
-80#VERS#COLLATED#:
-80#VERS#LINKS####:
-90#VERS#ANNOTATOR:
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: 
+90#VERS#ANNOTATOR: 
 90#VERS#COMMENT##: OCRed through Kraken:
     * Kraken version: 3.0.0.0b21.dev6
     * segmentation model: DEFAULT
